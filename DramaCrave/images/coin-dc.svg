@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<defs><clipPath id="rim"><circle cx="100" cy="96" r="92"/></clipPath><clipPath id="face"><circle cx="100" cy="96" r="68"/></clipPath></defs>
+<circle cx="100" cy="104" r="92" fill="#C7841A"/>
+<circle cx="100" cy="96" r="92" fill="#F7BE32"/>
+<g clip-path="url(#rim)"><circle cx="100" cy="96" r="92" fill="#FFD966"/><circle cx="108" cy="110" r="92" fill="#F7BE32"/></g>
+<circle cx="100" cy="99" r="70" fill="#FFD966"/>
+<circle cx="100" cy="94" r="70" fill="#C7841A"/>
+<circle cx="100" cy="96" r="68" fill="#EDA623"/>
+<g clip-path="url(#face)"><circle cx="100" cy="96" r="68" fill="#D98F17"/><circle cx="100" cy="104" r="68" fill="#EDA623"/><path d="M30,150 A68,68 0 0 0 170,150 L170,200 L30,200Z" fill="#F9C443" opacity="0"/></g>
+<g transform="translate(0,6)"><g><circle cx="97" cy="100" r="36" fill="#C9861A"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g></g>
+<g><circle cx="97" cy="100" r="36" fill="#FFCB45"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g>
+<clipPath id="mk"><g><g><circle cx="97" cy="100" r="36" fill="#000"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g></g></clipPath>
+<g clip-path="url(#mk)"><g transform="translate(0,4)"><g><circle cx="97" cy="100" r="36" fill="#FFCB45"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g></g></g>
+<g clip-path="url(#mk)"><g><circle cx="97" cy="100" r="36" fill="#FFE07A"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g><g transform="translate(0,4)"><g><circle cx="97" cy="100" r="36" fill="#FFCB45"/><circle cx="125.08" cy="71.92" r="18.0" fill="#EDA623"/><circle cx="104.2" cy="63.28" r="7.2" fill="#EDA623"/><circle cx="133.72" cy="92.8" r="7.2" fill="#EDA623"/></g></g></g>
+</svg>
